@@ -1,0 +1,9 @@
+Building Btcoin
+
+See doc/readme-qt.rst for instructions on building Btcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Btcoin.
+
+See doc/build-*.txt for instructions on building btcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Btcoin.
